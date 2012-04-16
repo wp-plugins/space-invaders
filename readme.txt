@@ -2,7 +2,7 @@
 
 Plugin Name: Space Invaders
 Authors: tambourdeville
-Contributors: alexrabe
+Contributors: no
 Authors URI: http://www.tambourdeville.com
 Plugin URI: http://www.tambourdeville.net
 Version: 1.0
