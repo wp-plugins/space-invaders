@@ -37,4 +37,3 @@ When the plugin is activated, TinyMCE now have three new buttons:
 
 = 1.0 =
 Initial release
-
